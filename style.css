@@ -2,12 +2,17 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .hero{
     height: 100vh;
+
     width: 100%;
-    background-color: rgb(59, 47, 47);
+    background-color: chartreuse;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 navbar{
     position: fixed;

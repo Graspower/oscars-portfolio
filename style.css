@@ -29,4 +29,13 @@
     font-weight: 600;
     color: #ffffff;
 }
-li
+.navbar li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar li a{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
